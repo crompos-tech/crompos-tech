@@ -1,96 +1,120 @@
-# 👋 Hi, I'm Aneesh Kumar Yadav
+<h1 align="center">Hi 👋, I'm Aneesh Kumar Yadav</h1>
 
-🎓 B.Tech in Computer Science (2023–2027) – KIIT University  
-📊 Competitive Programmer | Full-Stack Developer | AI & Blockchain Enthusiast  
-
-I build scalable web applications, solve complex algorithmic problems, and explore emerging technologies like AI/ML and Blockchain. I am passionate about writing clean, efficient code and continuously improving my problem-solving ability.
-
----
-
-## 🚀 Current Focus
-
-- Mastering Data Structures & Algorithms  
-- Building production-ready Full-Stack applications  
-- Researching Blockchain architectures (Ethereum, Bitcoin, Hyperledger Fabric)  
-- Strengthening AI/ML fundamentals  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Blockchain+Research+Enthusiast;Competitive+Programmer+(LeetCode+1613);Building+Decentralized+Applications;Open+to+Opportunities+🚀" />
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 About Me
 
-### 💻 Programming
-Python • C++ • C • JavaScript • SQL  
-
-### 🌐 Web Development
-HTML • CSS • React • Node.js  
-
-### ⚙️ Tools & Platforms
-Git • GitHub • VS Code • Jupyter Notebook • Linux • Microsoft Azure  
-
-### 🧠 Core Computer Science
-Data Structures & Algorithms  
-Database Management Systems  
-Operating Systems  
-Computer Networks  
-Object-Oriented Programming  
-Software Engineering  
+🎓 B.Tech Computer Science (2023–2027) — KIIT University  
+💻 Full-Stack Developer & Blockchain Enthusiast  
+🧠 Competitive Programmer (200+ DSA Problems Solved)  
+🔗 Researching Blockchain Architectures (Ethereum, Bitcoin, Hyperledger Fabric)  
+⚡ Passionate about scalable systems and clean code  
 
 ---
 
-## 💼 Experience
+## 🧠 Current Focus
 
-### 🔹 AI Azure Intern – Microsoft (2025)
-- Completed an intensive internship focused on AI, ML, Deep Learning & Generative AI  
-- Built an individual project using Azure-based services  
-- Participated in mentor-led technical sessions  
-
-### 🔹 Undergraduate Researcher – Blockchain Technology
-- Conducting comparative study of Ethereum, Bitcoin & Hyperledger Fabric  
-- Performing protocol analysis and academic drafting  
-- Exploring real-world blockchain applications  
-
-### 🔹 AI-ML Virtual Intern – EduSkills Foundation
-- Hands-on training in AI/ML concepts and AWS cloud labs  
-- Worked with real-world datasets  
+- Mastering Data Structures & Algorithms
+- Building production-ready Full-Stack applications
+- Smart Contract Development (Ethereum)
+- Strengthening AI/ML fundamentals
 
 ---
 
-## 📌 Projects
+## 🏆 Competitive Programming Profiles
 
-### 🌦 Weather Application
-- Integrated real-time WeatherAPI  
-- Implemented dynamic search functionality  
-- Designed responsive UI with proper error handling  
-
-### 📰 News Search Application
-- Built dynamic news platform using NewsAPI  
-- Implemented loading states & structured UI  
-- Focused on clean user experience  
-
----
-
-## 🏆 Competitive Programming
-
-- Solved 200+ DSA problems  
-- LeetCode Rating: 1569  
-- 2★ on GeeksforGeeks  
-- Ranked Top 13% in LeetCode Biweekly Contest  
+<p align="center">
+<a href="https://leetcode.com/u/cromposleet/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/crompo1gmc/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+</p>
 
 ---
 
-## 📈 Goals for 2026
+## 🛠️ Languages & Tools
 
-- Reach 300+ DSA problems  
-- Build 2–3 scalable full-stack projects  
-- Publish blockchain research paper  
-- Contribute to open-source projects  
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,hardhat" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Featured Project
 
-📧 yadavaneesh735596@gmail.com  
-🔗 LinkedIn: [Aneesh Kumar Yadav](https://www.linkedin.com/in/aneesh-yadav-1670b3308/)
+### 🌱 Blockchain-Based Carbon Footprint Tracking (BCFT)
+
+- Blockchain-powered system for tracking individual carbon emissions
+- Ethereum smart contracts with gas optimization
+- MetaMask wallet integration
+- Real-time emission analytics dashboard
+
+🔗 https://github.com/crompos-tech/carbon-detect
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=crompos-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crompos-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crompos-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+- Solve 300+ DSA problems
+- Build scalable full-stack applications
+- Publish blockchain research paper
+- Contribute to open source projects
+
+---
+
+## 🤝 Connect With Me
+
+📧 yadavanesh735596@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/aneesh-yadav-1670b3308  
 💻 GitHub: https://github.com/crompos-tech  
-🧠 LeetCode: https://leetcode.com/u/cromposleet/
-📘 GeeksforGeeks:https://www.geeksforgeeks.org/profile/crompo1gmc
+
+---
+
+⭐ From [crompos-tech](https://github.com/crompos-tech)
