@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aneesh Kumar Yadav</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Blockchain+Research+Enthusiast;Competitive+Programmer+(LeetCode+1613);Building+Decentralized+Applications;Open+to+Opportunities+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Blockchain+Research+Enthusiast;Competitive+Programmer;Building+Decentralized+Applications;Open+to+Opportunities+🚀" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech Computer Science (2023–2027) — KIIT University  
-💻 Full-Stack Developer & Blockchain Enthusiast  
+💻 Full-Stack Developer | Blockchain Enthusiast  
 🧠 Competitive Programmer (200+ DSA Problems Solved)  
 🔗 Researching Blockchain Architectures (Ethereum, Bitcoin, Hyperledger Fabric)  
 ⚡ Passionate about scalable systems and clean code  
@@ -25,15 +25,24 @@
 
 ---
 
-## 🏆 Competitive Programming Profiles
+## 🏆 Competitive Programming Stats
 
 <p align="center">
-<a href="https://leetcode.com/u/cromposleet/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/crompo1gmc/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
+
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode%20Rating-1613-yellow?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2★%20(1545)-green?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/Biweekly%20Contest-Top%2013%25-blue?style=for-the-badge"/>
+
+</p>
+
+### 📊 Profiles
+
+- 💻 LeetCode: https://leetcode.com/u/cromposleet/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/crompo1gmc/
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/cromposleet?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ---
@@ -69,9 +78,9 @@
 
 ## 🌱 Featured Project
 
-### 🌱 Blockchain-Based Carbon Footprint Tracking (BCFT)
+### Blockchain-Based Carbon Footprint Tracking (BCFT)
 
-- Blockchain-powered system for tracking individual carbon emissions
+- Blockchain-powered system to track individual carbon emissions
 - Ethereum smart contracts with gas optimization
 - MetaMask wallet integration
 - Real-time emission analytics dashboard
@@ -95,7 +104,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crompos-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crompos-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -105,7 +114,7 @@
 - Solve 300+ DSA problems
 - Build scalable full-stack applications
 - Publish blockchain research paper
-- Contribute to open source projects
+- Contribute to open-source projects
 
 ---
 
@@ -114,6 +123,14 @@
 📧 yadavanesh735596@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/aneesh-yadav-1670b3308  
 💻 GitHub: https://github.com/crompos-tech  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/crompos-tech/crompos-tech/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
