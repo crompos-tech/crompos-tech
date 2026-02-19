@@ -31,6 +31,19 @@
   <img src="https://leetcard.jacoblin.cool/cromposleet?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
+
+---
+
+## 🧩 Problem Solving Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/cromposleet?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-streak-stats.vercel.app/?user=cromposleet&theme=dark"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/LeetCode%20Rating-1613-yellow?style=for-the-badge&logo=leetcode"/>
