@@ -25,25 +25,23 @@
 
 ---
 
-## 🏆 Competitive Programming Stats
+## 🏆 Competitive Programming
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/LeetCode%20Rating-1613-yellow?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-2★%20(1545)-green?style=for-the-badge&logo=geeksforgeeks"/>
-<img src="https://img.shields.io/badge/Biweekly%20Contest-Top%2013%25-blue?style=for-the-badge"/>
-
+  <img src="https://leetcard.jacoblin.cool/cromposleet?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
-### 📊 Profiles
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1613-yellow?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2★%20(1545)-green?style=for-the-badge&logo=geeksforgeeks"/>
+  <img src="https://img.shields.io/badge/Biweekly%20Contest-Top%2013%25-blue?style=for-the-badge"/>
+</p>
 
+### 🔗 Profiles
 - 💻 LeetCode: https://leetcode.com/u/cromposleet/
 - 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/crompo1gmc/
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/cromposleet?theme=dark&font=Baloo&ext=contest"/>
-</p>
 
 ---
 
