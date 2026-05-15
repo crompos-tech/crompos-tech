@@ -10,7 +10,7 @@
 
 🎓 B.Tech Computer Science (2023–2027) — KIIT University  
 💻 Full-Stack Developer | Blockchain Enthusiast  
-🧠 Competitive Programmer (200+ DSA Problems Solved)  
+🧠 Competitive Programmer (350+ DSA Problems Solved)  
 🔗 Researching Blockchain Architectures (Ethereum, Bitcoin, Hyperledger Fabric)  
 ⚡ Passionate about scalable systems and clean code  
 
@@ -118,7 +118,7 @@
 
 ## 🎯 Goals for 2026
 
-- Solve 300+ DSA problems
+- Solve 500+ DSA problems
 - Build scalable full-stack applications
 - Publish blockchain research paper
 - Contribute to open-source projects
