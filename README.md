@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/LeetCode%20Rating-1613-yellow?style=for-the-badge&logo=leetcode"/>
+ <img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode%20Rating-1644-yellow?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/GeeksforGeeks-2★%20(1545)-green?style=for-the-badge&logo=geeksforgeeks"/>
   <img src="https://img.shields.io/badge/Biweekly%20Contest-Top%2013%25-blue?style=for-the-badge"/>
 </p>
